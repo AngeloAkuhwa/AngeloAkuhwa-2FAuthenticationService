@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "keRdaeFNcbQrciJUu1/7SxUUxzzDOusB2kZrHjrS/Zs=",
+  "Source": "NumberVerify2FA.Presentation",
+  "BasePath": "_content/NumberVerify2FA.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

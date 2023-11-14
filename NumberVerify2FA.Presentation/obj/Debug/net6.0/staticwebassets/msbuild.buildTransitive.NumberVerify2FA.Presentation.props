@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NumberVerify2FA.Presentation.props" />
+</Project>

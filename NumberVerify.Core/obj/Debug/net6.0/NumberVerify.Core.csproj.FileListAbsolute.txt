@@ -1,0 +1,14 @@
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\bin\Debug\net6.0\NumberVerify.Core.deps.json
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\bin\Debug\net6.0\NumberVerify.Core.runtimeconfig.json
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\bin\Debug\net6.0\NumberVerify.Core.dll
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\bin\Debug\net6.0\NumberVerify.Core.pdb
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.csproj.AssemblyReference.cache
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.AssemblyInfoInputs.cache
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.AssemblyInfo.cs
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.dll
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\refint\NumberVerify.Core.dll
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.pdb
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\NumberVerify.Core.genruntimeconfig.cache
+C:\Users\Angelo Akuhwa\source\repos\TestProject\NumberVerify2FA\NumberVerify.Core\obj\Debug\net6.0\ref\NumberVerify.Core.dll

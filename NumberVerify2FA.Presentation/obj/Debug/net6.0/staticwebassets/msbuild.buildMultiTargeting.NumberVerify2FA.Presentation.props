@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NumberVerify2FA.Presentation.props" />
+</Project>

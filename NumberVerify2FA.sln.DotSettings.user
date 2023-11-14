@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=01992b03_002Df4db_002D408e_002D957d_002D72f3b752277b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VerifyAuthenticatorCodeAsync_UserNotFound_ReturnsBadRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.VerifyAuthenticatorCodeFact&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.EnableAuthenticatorAsync.EnableAuthenticatorAsync_PhoneNumberMismatch_ReturnsBadRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.EnableAuthenticatorAsync.EnableAuthenticatorAsync_TwofactorAlreadyEnabled_ReturnsBadRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.EnableAuthenticatorAsync.EnableAuthenticatorAsync_FailedToSendToken_ReturnsBadRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.EnableAuthenticatorAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.AuthenticationControllerFact.VerifyAuthenticator_UserNotFound_ReturnsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.AuthenticationControllerFact.VerifyAuthenticator_Success_ReturnsCorrectStatusCode&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FB27BE4E-AC3F-4DDC-BD2B-99B112428D53::net6.0::NumberVerify2FA.Test.AuthenticationControllerFact&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
