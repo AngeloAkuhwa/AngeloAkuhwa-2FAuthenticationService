@@ -1,0 +1,55 @@
+{
+	"Logging": {
+		"LogLevel": {
+			"Default": "Information",
+			"Microsoft.AspNetCore": "Warning"
+		}
+	},
+	"AllowedHosts": "*",
+	"ApplicationConfigKeys": {
+		"TestUser": {
+			"FirstName": "Super",
+			"LastName": "Admin",
+			"UserName": "SuperAdmin",
+			"PhoneNumber": "8137778295",
+			"Email": "superadmin@ArivalBank.org",
+			"CountryPhoneCode": "+234",
+			"EmailConfirmed": true,
+			"Password": "THEElder@123"
+		},
+		"TwoFactorConfig": {
+			"CodeValidityDuration": 60,
+			"MaxAttempts": 4
+		},
+		"JwtConfig": {
+			"Key": "key",
+			"Issuer": "YourIssuer",
+			"Audience": "YourAudience",
+			"Duration": 1
+		},
+		"DefaultConnectionString": "[your postgre DB connection string]",
+
+		"IdentityOptions": {
+			"Lockout": {
+				"DefaultLockoutTimeSpanInMinutes": 5,
+				"MaxFailedAccessAttempts": 5,
+				"AllowedForNewUsers": true
+			},
+			"User": {
+				"RequireUniqueEmail": true
+			},
+			"Password": {
+				"RequireDigit": true,
+				"RequiredUniqueChars": 1,
+				"RequireLowercase": true,
+				"RequireNonAlphanumeric": true,
+				"RequireUppercase": true
+			},
+			"SignIn": {
+				"RequireConfirmedAccount": false,
+				"RequireConfirmedEmail": true,
+				"RequireConfirmedPhoneNumber": false 
+			}
+		}
+	}
+}
