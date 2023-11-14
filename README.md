@@ -3,6 +3,8 @@
 ## Overview
 This project implements a Two-Factor Authentication (2FA) service as part of the backend system for secure user authentication. 
 It includes endpoints for sending a confirmation code (simulated for current purposes) and verifying the received confirmation code.
+The service architecture emphasizes security, making the endpoints for sending a confirmation code and verifying the received confirmation code inaccessible without proper authentication.
+While the confirmation and code-sending functionalities are currently simulated for developmental purposes, the implementation ensures robust verification mechanisms in line with good best security practice
 
 ## Prerequisites
 * .NET 6 SDK
