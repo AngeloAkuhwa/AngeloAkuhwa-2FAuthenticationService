@@ -84,10 +84,12 @@ This project utilizes an `appsettings.json.tmpl` file as a template for applicat
 
 ## Testing
 ### Running Unit Tests
-Execute unit tests with the command: dotnet test
+Execute unit tests with the command:
+dotnet test
 
 ## Extending the Service
 To integrate with real SMS gateways for sending 2FA codes, modify the `GenerateAndSend2FATokenAsync` method in the `AuthenticationService`.
 
 ## Contribution
 Contributions are welcome. Please adhere to the standard pull request process for contributions.
+
