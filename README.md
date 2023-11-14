@@ -60,6 +60,7 @@ It includes endpoints for sending a confirmation code (simulated for current pur
   "phoneNumber": "123456789",
   "token": "123456"
 }
+```
 
 ## Configuration and Setup
 
