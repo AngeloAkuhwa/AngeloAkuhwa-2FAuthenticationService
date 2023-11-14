@@ -10,8 +10,8 @@ It includes endpoints for sending a confirmation code (simulated for current pur
 
 ## Setup Instructions
 ### Clone the Repository:
-  git clone https://github.com/AngeloAkuhwa/AngeloAkuhwa-2FAuthenticationService.git
-  cd AngeloAkuhwa-2FAuthenticationService.git
+  * git clone https://github.com/AngeloAkuhwa/AngeloAkuhwa-2FAuthenticationService.git
+  * cd AngeloAkuhwa-2FAuthenticationService
 
 ### Install Dependencies:
   * Navigate to the project directory and restore the dependencies:
